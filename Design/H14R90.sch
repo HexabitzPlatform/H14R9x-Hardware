@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.6.1">
+<eagle version="9.6.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -5987,10 +5987,10 @@ Es handelt sich hierbei um AK500 in horizontaler Ausführung.&lt;p&gt;
 <text x="216.2722" y="14.2766" size="1.9304" layer="100" font="vector">Revision</text>
 <text x="216.45" y="4.9548" size="1.9304" layer="100" font="vector">Sheet   of</text>
 <text x="200.0162" y="19.2042" size="1.9304" layer="100" font="vector">Title</text>
-<text x="181.4742" y="19.2042" size="1.9304" layer="102" font="vector">H14R90</text>
+<text x="181.4742" y="19.2042" size="1.9304" layer="102" font="vector">H14R9</text>
 <text x="186.7828" y="11.4064" size="1.9304" layer="101" font="vector">4 x 5V PWM O/P 
 + External Supply </text>
-<text x="206.8742" y="19.2042" size="1.9304" layer="101" font="vector">H14R90_Backend</text>
+<text x="206.8742" y="19.2042" size="1.9304" layer="101" font="vector">H14R9_Backend</text>
 <wire x1="169.46" y1="3.38" x2="169.46" y2="7.698" width="0.1524" layer="205"/>
 <wire x1="169.46" y1="7.698" x2="169.46" y2="17.858" width="0.1524" layer="205"/>
 <wire x1="169.46" y1="17.858" x2="169.46" y2="22.43" width="0.1524" layer="205"/>
@@ -8919,10 +8919,10 @@ Es handelt sich hierbei um AK500 in horizontaler Ausführung.&lt;p&gt;
 <text x="216.2722" y="14.2766" size="1.9304" layer="100" font="vector">Revision</text>
 <text x="216.45" y="4.9548" size="1.9304" layer="100" font="vector">Sheet   of</text>
 <text x="200.0162" y="19.2042" size="1.9304" layer="100" font="vector">Title</text>
-<text x="181.4742" y="19.2042" size="1.9304" layer="102" font="vector">H14R90</text>
+<text x="181.4742" y="19.2042" size="1.9304" layer="102" font="vector">H14R9</text>
 <text x="188.0528" y="11.4064" size="1.9304" layer="101" font="vector">4 x 5V PWM O/P 
 + External Supply </text>
-<text x="206.8742" y="19.2042" size="1.9304" layer="101" font="vector">H14R90_Frontend</text>
+<text x="206.8742" y="19.2042" size="1.9304" layer="101" font="vector">H14R9_Frontend</text>
 <wire x1="169.46" y1="3.38" x2="169.46" y2="7.698" width="0.1524" layer="205"/>
 <wire x1="169.46" y1="7.698" x2="169.46" y2="17.858" width="0.1524" layer="205"/>
 <wire x1="169.46" y1="17.858" x2="169.46" y2="22.43" width="0.1524" layer="205"/>

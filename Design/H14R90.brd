@@ -578,16 +578,16 @@
 <rectangle x1="5.997828125" y1="3.614290625" x2="7.087996875" y2="3.629021875" layer="21"/>
 <rectangle x1="5.9683625" y1="3.629025" x2="7.08799375" y2="3.64375625" layer="21"/>
 <text x="8.5725" y="21.9075" size="1.9304" layer="21" rot="SR0">P1</text>
-<text x="11.1125" y="21.74875" size="1.9304" layer="26" rot="SMR0">P1</text>
+<text x="11.27125" y="23.1775" size="1.9304" layer="26" rot="SMR0">P1</text>
 <text x="10.16" y="6.35" size="1.9304" layer="21" rot="R60">P2*</text>
 <text x="14.12875" y="9.36625" size="1.9304" layer="26" rot="SMR0">P2*</text>
-<text x="-11.1125" y="23.65375" size="1.9304" layer="26" rot="MR180">P5</text>
+<text x="-11.27125" y="24.92375" size="1.9304" layer="26" rot="MR180">P5</text>
 <text x="-10.95375" y="21.74875" size="1.9304" layer="21" rot="SR0">P5</text>
-<text x="-12.3825" y="9.8425" size="1.9304" layer="21" rot="SR300">P4</text>
-<text x="-11.58875" y="9.2075" size="1.9304" layer="26" rot="MR0">P4</text>
+<text x="-12.3825" y="9.8425" size="1.9304" layer="21" rot="SR300">P4*</text>
+<text x="-9.8425" y="9.2075" size="1.9304" layer="26" rot="MR0">P4*</text>
 <text x="-1.5875" y="3.81" size="1.9304" layer="26" rot="MR180">P3</text>
 <text x="-1.27" y="1.905" size="1.9304" layer="21">P3</text>
-<text x="-9.8425" y="15.71625" size="1.9304" layer="22" font="vector" rot="MR90" align="center">H14R90</text>
+<text x="-10.00125" y="16.98625" size="1.9304" layer="22" font="vector" rot="MR90" align="center">H14R90</text>
 <text x="-10.00125" y="11.58875" size="1.9304" layer="25">B</text>
 <text x="10.95375" y="17.145" size="1.9304" layer="21">R</text>
 <text x="-10.00125" y="14.2875" size="1.9304" layer="21">C</text>
